@@ -17,7 +17,7 @@ public class Menu {
 
 
     @NotNull
-    @Size(min = 3, max = 5)
+    @Size(min = 3, max = 15)
     String name;
 
 
